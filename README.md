@@ -50,7 +50,7 @@ sorting-visualizer/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/ritesh-saini-16/Sorting-visiualizer.git
+git clone https://github.com/ritesh-saini-16/sorting-visualizer.git
 ```
 2. Open `index.html` in your web browser
 3. No additional setup required!
