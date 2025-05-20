@@ -59,7 +59,7 @@ git clone https://github.com/ritesh-saini-16/Sorting-visiualizer.git
 
 You can visualize the sorting algorithms in action by visiting:
 - [GitHub Pages Demo](https://ritesh-saini-16.github.io/sorting-visualizer/)
-- [GitHub Repository](https://github.com/ritesh-saini-16/Sorting-visiualizer)
+- [GitHub Repository](https://github.com/ritesh-saini-16/sorting-visualizer)
 
 ## Contributing
 
